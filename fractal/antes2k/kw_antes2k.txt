@@ -1,0 +1,990 @@
+acoustic emission
+acoustic emissions
+activated carbon
+activated sludge
+activation energy
+adhesion
+adolescent
+adrenergic system
+adsorbents
+adsorption
+adsorption isotherms
+adult
+aerogels
+aerosol
+aerosols
+age
+aged
+aged, 80 and over
+agglomeration
+aggregate
+aggregates
+aggregation
+aging
+aging of materials
+airborne particle
+alcohols
+algorithm
+algorithms
+alumina
+aluminum
+aluminum alloys
+aluminum compounds
+alveolar process
+alzheimer disease
+amorphous materials
+analysis
+analysis of variance
+analytic method
+angiogenesis
+animal
+animal cell
+animal experiment
+animal model
+animal tissue
+animalia
+animals
+anisotropy
+annealing
+antigen antibody reaction
+antigen-antibody reactions
+approximate entropy
+approximation theory
+arterial pressure
+arteries
+artifact
+artifacts
+artificial heart
+artificial intelligence
+artificial neural network
+aspect ratio
+astrocyte
+astrocytes
+atomic force microscopy
+atoms
+attractor
+attractors
+autocorrelation function
+automation
+autonomic nervous system
+autopsy
+axons
+backpropagation
+bacteria (microorganisms)
+benzene
+bifurcation (mathematics)
+binding kinetics
+biological model
+biology
+biomass
+biomechanics
+biomedical engineering
+biometry
+biophysics
+biopsy
+biosensing techniques
+biosensor
+biosensors
+blood flow
+blood flow velocity
+blood pressure
+blood pump
+blood vessels
+blood volume
+bone
+bone and bones
+bone density
+bone marrow
+bone mineral
+bone mineral density
+bone radiography
+bone remodeling
+bone strength
+bone structure
+boundary conditions
+bovine serum albumin
+box counting
+box counting algorithm
+box counting method
+box-counting
+box-counting method
+brain
+brain cortex
+brain mapping
+breast
+breast cancer
+breast neoplasms
+brittle fracture
+brittleness
+brownian motion
+brownian movement
+calcaneus
+calcium
+calcium ion
+calculation
+calculations
+cameras
+cancellous bone
+capillarity
+capra hircus
+carbon
+carbon black
+cardiology
+cardiovascular system
+case report
+cat
+catalysis
+catalysts
+cats
+cattle
+cell culture
+cell differentiation
+cell division
+cell growth
+cell membrane
+cell nucleus
+cell size
+cell structure
+cells
+cells, cultured
+cellular automata
+cements
+ceramic materials
+ceramics
+cerebral cortex
+channel flow
+chaos
+chaos theory
+chaotic dynamics
+chaotic systems
+characterization
+chemical analysis
+chemical bonds
+chemical reactions
+chemical reactors
+chemical structure
+chemistry
+chemistry, physical
+child
+china
+circadian rhythm
+classification
+classification (of information)
+clay
+clay minerals
+clinical article
+clinical trial
+cluster analysis
+clustering
+clusters
+coagulation
+coal
+coalescence
+coatings
+colloid
+colloid chemistry
+colloids
+combustion
+compaction
+complexity
+composite materials
+composition
+composition effects
+compression testing
+compressive strength
+computational complexity
+computational geometry
+computational methods
+computer aided analysis
+computer aided diagnosis
+computer analysis
+computer applications
+computer assisted diagnosis
+computer assisted tomography
+computer graphics
+computer model
+computer program
+computer simulation
+computer software
+computer vision
+computerized tomography
+computers
+concrete
+concretes
+condensation
+conductive plastics
+conference paper
+confocal microscopy
+connectivity
+convergence of numerical methods
+copper
+coronary artery blood flow
+coronary circulation
+correlation dimension
+correlation dimensions
+correlation function
+correlation methods
+correlation theory
+crack initiation
+crack propagation
+cracks
+creep
+crosslinking
+crystal growth
+crystal lattices
+crystal microstructure
+crystal structure
+crystalline materials
+crystallization
+crystals
+cytology
+damping
+data acquisition
+data analysis
+data interpretation, statistical
+data processing
+data reduction
+database systems
+defects
+deformation
+degradation
+degrees of freedom (mechanics)
+dem
+dementia
+dendrite
+dendrites
+densitometry, x-ray
+density
+density (specific gravity)
+density measurement (specific gravity)
+deposition
+desorption
+deterministic chaos
+development
+diagnosis
+diagnostic accuracy
+diagnostic imaging
+diagnostic radiography
+diagnostic value
+dielectric materials
+differential diagnosis
+differential equations
+diffraction
+diffusion
+diffusion in solids
+diffusion limited aggregation
+digital image storage
+digital radiography
+dimension
+discriminant analysis
+disease severity
+diseases
+dislocations (crystals)
+dispersion
+dispersions
+dissolution
+dla
+dog
+dogs
+drag
+drug effect
+drug solubility
+dynamic light scattering
+dynamics
+earthquake
+earthquakes
+echography
+ecology
+edge detection
+eeg
+eigenvalues and eigenfunctions
+elastic moduli
+elasticity
+electric breakdown
+electric breakdown of solids
+electric conductivity
+electric discharges
+electric field effects
+electric fields
+electric insulating materials
+electrical trees
+electrocardiogram
+electrocardiography
+electrocardiography, ambulatory
+electrochemical electrodes
+electrochemistry
+electrodes
+electroencephalogram
+electroencephalography
+electrolytes
+electromagnetic wave backscattering
+electromagnetic wave scattering
+electromyography
+electron energy levels
+electron microscopy
+electrophysiology
+electrostatics
+embryo
+energy
+energy dissipation
+entropy
+epilepsy
+epithelium
+epoxy resins
+equations of motion
+error analysis
+errors
+estimation
+evaporation
+failure (mechanical)
+failure analysis
+fast fourier transforms
+fatigue of materials
+feature extraction
+female
+femur
+ferric oxide
+ferrography
+fetus
+film growth
+filtration
+finite element method
+flame research
+floc structure
+flocculation
+flocs
+flow
+flow of fluids
+flow of water
+fluid dynamics
+fluid flow
+fluid mechanics
+fluidized beds
+fluids
+fluorescence
+forecasting
+fourier analysis
+fourier transformation
+fourier transforms
+fractal
+fractal aggregates
+fractal analysis
+fractal brownian motion
+fractal characteristics
+fractal dimension
+fractal dimension analysis
+fractal dimension estimation
+fractal dimensions
+fractal geometry
+fractal growth
+fractal model
+fractal parameters
+fractal properties
+fractal structure
+fractal structures
+fractal surface
+fractal surfaces
+fractal theory
+fractals
+fractional brownian motion
+fractography
+fracture
+fracture energy
+fracture mechanics
+fracture surface
+fracture surfaces
+fracture testing
+fracture toughness
+fractures
+fragmentation
+frequency domain analysis
+friction
+functions
+fused silica
+fuzzy sets
+gas adsorption
+gel
+gelation
+gels
+geology
+geometry
+geomorphology
+geophysics
+geostatistics
+glass
+goat
+gold
+grain boundaries
+grain size and shape
+granite
+granular materials
+graph theory
+graphite
+groundwater flow
+growth (materials)
+haemodynamics
+hausdorff dimension
+heart
+heart cycle
+heart rate
+heart rate variability
+heat
+heat transfer
+heat treatment
+heating
+hematite
+hematocrit
+hemodynamic parameters
+hemodynamics
+heterogeneity
+hierarchical systems
+histogram
+histology
+histopathology
+holter monitoring
+human
+human cell
+human experiment
+human tissue
+humans
+hurst coefficient
+hurst exponent
+hydration
+hydraulic conductivity
+hydrocarbons
+hydrodynamics
+hydrology
+hydrolysis
+hydrophobicity
+image analysis
+image classification
+image coding
+image compression
+image enhancement
+image processing
+image processing, computer-assisted
+image quality
+image reconstruction
+image segmentation
+image texture
+imaging
+imaging systems
+imaging techniques
+immunohistochemistry
+implantation
+in vitro study
+infant, newborn
+integral equations
+integration
+interfaces (materials)
+intermethod comparison
+interpolation
+inverse problems
+ionic strength
+ions
+iron
+iron compounds
+iron oxides
+iterated function system
+iterative methods
+jaw
+jets
+kinetic theory
+kinetics
+knee
+knee joint
+lactose
+lacunarity
+laminar flow
+landforms
+landscape ecology
+laplace transforms
+laser applications
+latex
+latexes
+lead
+learning systems
+least squares approximations
+light
+light absorption
+light polarization
+light scattering
+limestone
+linear models
+liver
+loads (forces)
+local fractal dimension
+lucifer yellow
+lumbar vertebra
+lumbar vertebrae
+lung
+lung blood flow
+lyapunov exponent
+lyapunov exponents
+lyapunov methods
+macromolecule
+macromolecules
+magnetic field effects
+magnetic resonance
+magnetic resonance imaging
+male
+mammalia
+mammography
+mandible
+mapping
+mass fractal dimension
+mass transfer
+materials testing
+mathematical analysis
+mathematical computing
+mathematical model
+mathematical models
+mathematical morphology
+mathematical operators
+mathematical techniques
+mathematical techniques - geometry
+mathematical techniques--geometry
+mathematical transformations
+mathematics
+matrix algebra
+maximum likelihood estimation
+measurement
+mechanical permeability
+mechanical properties
+mechanical testing
+mechanical variables measurement
+mechanics
+medical applications
+medical imaging
+mercury porosimetry
+metabolism
+metallic films
+metallographic microstructure
+metals
+mice
+micelle
+micelles
+microcirculation
+microcomputers
+microcracks
+microporosity
+microscopic examination
+microscopy
+microscopy, electron
+microscopy, electron, scanning
+microsphere
+microspheres
+microstructure
+middle age
+middle aged
+minerals
+mixing
+mixtures
+model
+modeling
+modelling-mathematical
+models
+models, biological
+models, cardiovascular
+models, neurological
+models, theoretical
+molecular dynamics
+molecular interaction
+molecular structure
+molecular weight
+molecules
+monitoring
+monomers
+monte carlo method
+monte carlo methods
+morphogenesis
+morphology
+morphometrics
+morphometry
+mouse
+multi fractals
+multifractal
+multifractal analysis
+multifractals
+multiphase flow
+muscle
+nanostructured materials
+nerve cell
+neural networks
+neurons
+neutron scattering
+newborn
+nitrogen
+noise
+nonbiological model
+nondestructive examination
+nonhuman
+nonlinear analysis
+nonlinear dynamics
+nonlinear equations
+nonlinear system
+nonlinear systems
+normal human
+nuclear magnetic resonance
+nuclear magnetic resonance imaging
+nucleation
+numerical analysis
+numerical descriptors
+numerical methods
+object recognition
+observer variation
+oligodendroglia
+optical correlation
+optical microscopy
+optical properties
+optical variables measurement
+optics
+optimization
+organic acids
+organic polymers
+oscillation
+oscillations
+osteoporosis
+osteoporosis, postmenopausal
+oxidation
+oxides
+oxygen
+parallel processing systems
+parameter estimation
+partial discharges
+particle size
+particle size analysis
+particle size distribution
+particles
+particles (particulate matter)
+particulate matter
+pathology
+pathophysiology
+pattern recognition
+percolation
+percolation (fluids)
+percolation (solid state)
+percolation theory
+percolation threshold
+performance
+permeability
+personal computers
+perturbation techniques
+petroleum reservoirs
+ph
+ph effects
+phase equilibria
+phase interfaces
+phase separation
+phase space methods
+phase transition
+phase transitions
+photography
+physical chemistry
+physical phenomena
+physical properties
+physiological models
+physiology
+plastic deformation
+plasticity
+platinum
+poincare maps
+polarization
+polydispersity
+polyethylenes
+polymer
+polymerization
+polymers
+polymethyl methacrylates
+polysaccharides
+polystyrene
+polystyrenes
+pore size
+porosity
+porous materials
+porous media
+porous medium
+porous silicon
+postmenopause osteoporosis
+powder
+powders
+power law
+power spectrum
+precipitation (chemical)
+prediction
+pregnancy
+pressure
+pressure effects
+probability
+probability density function
+prognosis
+protein
+protein conformation
+protein structure
+proteins
+pulmonary circulation
+pyrolysis
+quality control
+quantitative assay
+quantitative diagnosis
+quantum theory
+quartz
+rabbit
+rabbits
+radar
+radar clutter
+radar imaging
+radiation scattering
+radiographic image enhancement
+radiographic image interpretation, computer-assisted
+radiographs
+radiography
+radius
+random processes
+random walk
+rat
+rats
+rats, sprague-dawley
+reaction kinetics
+reaction time
+receptor binding
+recursive functions
+reference values
+refractive index
+regional blood flow
+regression analysis
+relaxation processes
+reliability
+remote sensing
+reproducibility
+reproducibility of results
+retina
+retina blood vessel
+retina ganglion cell
+retinal ganglion cells
+retinal vessels
+reynolds number
+rheology
+risk
+risk assessment
+river network
+rivers
+rock
+rock joints
+rock mechanics
+rocks
+roughness
+roughness measurement
+sampling
+sandstone
+satellites
+saxs
+scale effect
+scale invariance
+scaling
+scaling laws
+scanning electron microscopy
+scanning tunneling microscopy
+scattering
+scattering, radiation
+sediment
+sedimentation
+sedimentation rate
+sediments
+segmentation
+seismicity
+seismology
+self similarity
+self-similarities
+self-similarity
+sensitivity analysis
+sensitivity and specificity
+set theory
+shape
+shear flow
+shear rate
+shear strength
+shear stress
+short survey
+sierpinski carpet
+signal analysis
+signal detection
+signal filtering and prediction
+signal processing
+signal processing, computer-assisted
+silica
+silica gel
+silicates
+silicon
+silicon dioxide
+silicon wafers
+silver
+simulation
+single crystals
+sintering
+size distribution
+sleep
+slit island method
+small angle neutron scattering
+small angle x ray scattering
+small angle x ray scattering (saxs)
+sodium chloride
+software
+soil
+soil mechanics
+soil structure
+soils
+sol-gels
+solid
+solids
+sols
+solubility
+solutions
+solvents
+soot
+spatial correlation
+spatial distribution
+spatial heterogeneity
+speckle
+spectral analysis
+spectroscopy
+spectrum analysis
+speech analysis
+spinal fractures
+spurious signal noise
+stability
+stainless steel
+starch
+static light scattering
+statistical analysis
+statistical mechanics
+statistical methods
+statistical model
+statistics
+steel
+stereology
+stochastic model
+stochastic models
+stochastic processes
+stochastic systems
+strain
+strange attractor
+strange attractors
+strength of materials
+stress analysis
+stress intensity factor
+stresses
+structural analysis
+structure
+structure (composition)
+structure analysis
+substrates
+support, non-u.s. gov't
+support, u.s. gov't, non-p.h.s.
+support, u.s. gov't, p.h.s.
+surface
+surface active agents
+surface area
+surface fractal dimension
+surface fractal dimensions
+surface geometry
+surface measurement
+surface morphology
+surface phenomena
+surface properties
+surface property
+surface roughness
+surface structure
+surface topography
+surfaces
+suspension
+suspensions (fluids)
+swine
+synthesis
+synthesis (chemical)
+synthetic aperture radar
+synthetic apertures
+system analysis
+technique
+tectonics
+temperature
+tensile strength
+tensile testing
+texture
+texture analysis
+texture classification
+texture measures
+texture segmentation
+textures
+theoretical model
+theory
+thermal effects
+thermodynamics
+thin films
+three dimensional
+three dimensional computer graphics
+three dimensional imaging
+time
+time domain analysis
+time factors
+time series
+time series analysis
+tissue
+titanium
+titanium dioxide
+tomography
+tomography, x-ray computed
+topography
+topology
+trabecular bone
+trabecular bone structures
+trabecular structure
+transmission electron microscopy
+transport properties
+trees (mathematics)
+tribology
+turbulence
+turbulent flow
+two dimensional
+ultrasonic applications
+ultrasonic imaging
+ultrasound
+ultrastructure
+unclassified drug
+united states
+usa
+variogram
+variogram method
+vascularization
+vectors
+velocity
+vertebra
+vibration
+vibrations (mechanical)
+viscoelasticity
+viscosity
+viscous flow
+vision
+visualization
+volume fraction
+wakefulness
+waste water management
+water
+water treatment
+waveform
+waveform analysis
+wavelet transform
+wavelet transforms
+wavelets
+wear of materials
+wear particles
+wetting
+white noise
+x ray analysis
+x ray crystallography
+x ray diffraction
+x ray diffraction analysis
+x ray film
+x ray scattering
+x rays
+young modulus
