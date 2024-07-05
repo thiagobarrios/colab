@@ -15,7 +15,7 @@ aerosol
 aerosols
 age
 aged
-aged, 80 and over
+aged - 80 and over
 agglomeration
 aggregate
 aggregates
@@ -146,7 +146,7 @@ cell nucleus
 cell size
 cell structure
 cells
-cells, cultured
+cells - cultured
 cellular automata
 cements
 ceramic materials
@@ -164,7 +164,7 @@ chemical reactions
 chemical reactors
 chemical structure
 chemistry
-chemistry, physical
+chemistry - physical
 child
 china
 circadian rhythm
@@ -241,7 +241,7 @@ cytology
 damping
 data acquisition
 data analysis
-data interpretation, statistical
+data interpretation - statistical
 data processing
 data reduction
 database systems
@@ -253,7 +253,7 @@ dem
 dementia
 dendrite
 dendrites
-densitometry, x-ray
+densitometry - x-ray
 density
 density (specific gravity)
 density measurement (specific gravity)
@@ -310,7 +310,7 @@ electric insulating materials
 electrical trees
 electrocardiogram
 electrocardiography
-electrocardiography, ambulatory
+electrocardiography - ambulatory
 electrochemical electrodes
 electrochemistry
 electrodes
@@ -462,7 +462,7 @@ image coding
 image compression
 image enhancement
 image processing
-image processing, computer-assisted
+image processing - computer-assisted
 image quality
 image reconstruction
 image segmentation
@@ -473,7 +473,7 @@ imaging techniques
 immunohistochemistry
 implantation
 in vitro study
-infant, newborn
+infant - newborn
 integral equations
 integration
 interfaces (materials)
@@ -570,8 +570,8 @@ microcracks
 microporosity
 microscopic examination
 microscopy
-microscopy, electron
-microscopy, electron, scanning
+microscopy - electron
+microscopy - electron - scanning
 microsphere
 microspheres
 microstructure
@@ -584,10 +584,10 @@ model
 modeling
 modelling-mathematical
 models
-models, biological
-models, cardiovascular
-models, neurological
-models, theoretical
+models - biological
+models - cardiovascular
+models - neurological
+models - theoretical
 molecular dynamics
 molecular interaction
 molecular structure
@@ -645,7 +645,7 @@ organic polymers
 oscillation
 oscillations
 osteoporosis
-osteoporosis, postmenopausal
+osteoporosis - postmenopausal
 oxidation
 oxides
 oxygen
@@ -736,7 +736,7 @@ radar clutter
 radar imaging
 radiation scattering
 radiographic image enhancement
-radiographic image interpretation, computer-assisted
+radiographic image interpretation - computer-assisted
 radiographs
 radiography
 radius
@@ -744,7 +744,7 @@ random processes
 random walk
 rat
 rats
-rats, sprague-dawley
+rats - sprague-dawley
 reaction kinetics
 reaction time
 receptor binding
@@ -786,7 +786,7 @@ scaling laws
 scanning electron microscopy
 scanning tunneling microscopy
 scattering
-scattering, radiation
+scattering - radiation
 sediment
 sedimentation
 sedimentation rate
@@ -811,7 +811,7 @@ signal analysis
 signal detection
 signal filtering and prediction
 signal processing
-signal processing, computer-assisted
+signal processing - computer-assisted
 silica
 silica gel
 silicates
@@ -879,9 +879,9 @@ structure
 structure (composition)
 structure analysis
 substrates
-support, non-u.s. gov't
-support, u.s. gov't, non-p.h.s.
-support, u.s. gov't, p.h.s.
+support - non-u.s. gov't
+support - u.s. gov't - non-p.h.s.
+support - u.s. gov't - p.h.s.
 surface
 surface active agents
 surface area
@@ -933,7 +933,7 @@ tissue
 titanium
 titanium dioxide
 tomography
-tomography, x-ray computed
+tomography - x-ray computed
 topography
 topology
 trabecular bone
